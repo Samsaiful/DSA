@@ -1,3 +1,5 @@
+#First pattern
+
 def ster (n) :
     for i in range (n):
         for j in range (n):
