@@ -1,0 +1,12 @@
+marks=[23,23.5,12,37,90]
+print(marks)
+print(type(marks))
+print(len(marks))
+print(marks[1:4])
+marks.append(12)
+print(marks.count(23))
+marks.sort(reverse=True)
+# marks.reverse()
+print(marks)
+marks.pop(4)
+print(marks)
