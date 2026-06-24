@@ -1,4 +1,4 @@
-#First pattern
+#First pattern square
 
 def ster (n) :
     for i in range (n):
